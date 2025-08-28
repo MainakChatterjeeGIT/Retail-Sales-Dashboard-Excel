@@ -54,5 +54,5 @@ This project demonstrates skills in:
 
 ---
 
-👨‍💻 *Author: [Your Name]*  
-📅 *Year: 2023*  
+👨‍💻 *Author: Mainak Chatterjee*  
+📅 *Year: 2025*  
